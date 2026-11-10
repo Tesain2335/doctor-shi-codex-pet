@@ -1,0 +1,10 @@
+/runtime/
+/settings.json
+/settings.tmp
+/startup-task.xml
+/CodexPet/
+__pycache__/
+*.py[cod]
+*.log
+.env
+.env.*
